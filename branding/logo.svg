@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320">
+  <rect width="320" height="320" fill="#F6F5F0"/>
+  <g fill="#15161A">
+    <circle cx="20" cy="20" r="3"/>
+    <circle cx="113" cy="20" r="8"/><circle cx="67" cy="67" r="8"/><circle cx="20" cy="113" r="8"/>
+    <circle cx="207" cy="20" r="14"/><circle cx="160" cy="67" r="14"/><circle cx="113" cy="113" r="14"/><circle cx="67" cy="160" r="14"/><circle cx="20" cy="207" r="14"/>
+    <circle cx="300" cy="20" r="20"/><circle cx="253" cy="67" r="20"/><circle cx="207" cy="113" r="20"/><circle cx="160" cy="160" r="20"/><circle cx="113" cy="207" r="20"/><circle cx="67" cy="253" r="20"/><circle cx="20" cy="300" r="20"/>
+    <circle cx="300" cy="113" r="26"/><circle cx="253" cy="160" r="26"/><circle cx="207" cy="207" r="26"/><circle cx="160" cy="253" r="26"/><circle cx="113" cy="300" r="26"/>
+    <circle cx="300" cy="207" r="31"/><circle cx="253" cy="253" r="31"/><circle cx="207" cy="300" r="31"/>
+    <circle cx="300" cy="300" r="33"/>
+  </g>
+</svg>
