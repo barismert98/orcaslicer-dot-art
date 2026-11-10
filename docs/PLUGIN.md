@@ -23,7 +23,7 @@ The picture is made when you slice. Dot Art adds a slicing step that finds the t
 
 **Notes**
 - Needs two filaments and a 0.4 mm nozzle. It is tuned for the Bambu Lab X1 Carbon, the only printer it has been printed on.
-- The print in the photo: 100 mm square, 3.2 mm spacing. Spacing below about 3 mm has not been print-tested.
+- The print in the photo is 100 mm square, at 3.2 mm spacing. Spacing below about 3 mm has not been print-tested.
 - Auto tone and the frame shapes came after that print. They were checked on real sliced files and have not been printed.
 - Thin strings between dots usually mean the filament's retraction or temperature needs adjusting. Retraction starts from your printer preset, and Retraction, Z lift and Hold after blob are in the tab's Nozzle section.
 - OrcaSlicer's own time and filament totals still count the plain top layer. The tab shows the blob layer's time and filament.

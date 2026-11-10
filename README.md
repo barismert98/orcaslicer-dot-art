@@ -6,6 +6,10 @@ Turn an uploaded picture into a printed halftone: a grid of dots whose size carr
 
 *A first test print, not a finished result: 100 mm wide, 3.2 mm spacing, on a Bambu Lab X1 Carbon. Thin strings between the blobs are visible.*
 
+![The planned blobs in OrcaSlicer's slicer preview](docs/images/slicer-preview.png)
+
+*The planned blobs in the slicer preview. Each blob draws as a diamond here and prints as a round dome.*
+
 Requires OrcaSlicer 2.5.0 or later.
 
 Also on [Orca Cloud](https://cloud.orcaslicer.com/app/plugins/shared-plugins/3ec4b372-e6be-4365-b2c0-a5676d124fb0).
